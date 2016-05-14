@@ -1,0 +1,12 @@
+{
+  "st": {
+    "path": "./public",
+    "index": "index.html",
+    "cache": false
+  },
+  "browserify": {
+    "root": "src",
+    "cache": false
+  },
+  "PORT": 3000
+}
